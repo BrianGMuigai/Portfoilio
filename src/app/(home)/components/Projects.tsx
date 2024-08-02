@@ -11,14 +11,14 @@ import { DirectionAwareHover } from "@/components/ui/direction-aware-hover";
 export default function Projects() {
     const projects =[
         {
-            title: "Car Rental System",
+            title: "Banking System",
             tech:[ FaReact,SiTailwindcss,SiSpringboot,AiOutlineConsoleSql],
-            Link:"https://localhost:3000",
-            cover:"/pic1.png",
+            Link:"https://banking-app-kappa-sage.vercel.app/",
+            cover:"/BankingApp.png",
             background:"bg-indigo-500"
         },
         {
-            title: "Voting App",
+            title: "Personal Porfolio",
             tech:[ FaReact,SiTailwindcss,FaNodeJs,AiOutlineConsoleSql],
             Link:"https://localhost:3000",
             cover:"/pic2.png",
