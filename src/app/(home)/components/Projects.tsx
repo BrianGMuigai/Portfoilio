@@ -21,7 +21,7 @@ export default function Projects() {
             title: "Personal Porfolio",
             tech:[ FaReact,SiTailwindcss,FaNodeJs,AiOutlineConsoleSql],
             Link:"https://localhost:3000",
-            cover:"/pic2.png",
+            cover:"/pic1.png",
             background:"bg-green-500"
         },
         {
