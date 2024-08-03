@@ -14,42 +14,14 @@ export default function Projects() {
             title: "Banking System",
             tech:[ FaReact,SiTailwindcss,SiSpringboot,AiOutlineConsoleSql],
             Link:"https://banking-app-kappa-sage.vercel.app/",
-            cover:"/BankingApp.png",
+            cover:"/p3.png",
             background:"bg-indigo-500"
         },
         {
             title: "Personal Porfolio",
             tech:[ FaReact,SiTailwindcss,FaNodeJs,AiOutlineConsoleSql],
-            Link:"https://localhost:3000",
+            Link:"https://brianmuigai.vercel.app/",
             cover:"/pic1.png",
-            background:"bg-green-500"
-        },
-        {
-            title: "Real Estate App",
-            tech:[ FaReact,SiTailwindcss,SiSpringboot,AiOutlineConsoleSql],
-            Link:"https://localhost:3000",
-            cover:"/pic1.png",
-            background:"bg-indigo-500"
-        },
-        {
-            title: "School Library App",
-            tech:[ FaReact,SiTailwindcss,FaNodeJs,AiOutlineConsoleSql],
-            Link:"https://localhost:3000",
-            cover:"/pic2.png",
-            background:"bg-green-500"
-        },
-        {
-            title: "Eccommerce App",
-            tech:[ FaReact,SiTailwindcss,SiSpringboot,AiOutlineConsoleSql],
-            Link:"https://localhost:3000",
-            cover:"/pic1.png",
-            background:"bg-indigo-500"
-        },
-        {
-            title: "Car Rental System",
-            tech:[ FaReact,SiTailwindcss,FaNodeJs,AiOutlineConsoleSql],
-            Link:"https://localhost:3000",
-            cover:"/pic2.png",
             background:"bg-green-500"
         },
 
