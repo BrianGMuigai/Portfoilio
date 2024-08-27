@@ -10,7 +10,7 @@ export default function HeroSection() {
         <h1 className="text-4xl lg:text-7xl font-bold"> Nice to meet you! 👋 <br/> 
            <span className= "underline underline-offset-8 decoration-green-500">{"I'm Brian Muigai ."}</span> </h1>
        <p className= "md:w-96 text-lg text-grey-300">
-        {"Based in Nairobi, I'm a Fullstack Developer passionate about building a modern web application that users love."} 
+        {"Based in Nairobi, I'm a Software Engineer passionate about building a modern web application that users love."} 
        </p>
 
        <Link href={"mailto:brianmuigai40@gmail.com"}className= "inline-block group">
