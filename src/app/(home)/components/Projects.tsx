@@ -12,7 +12,7 @@ export default function Projects() {
     const projects =[
         {
             title: "Banking System",
-            tech:[ FaReact,SiTailwindcss,SiSpringboot,AiOutlineConsoleSql],
+            tech:[ FaReact,SiTailwindcss, FaNodeJs,AiOutlineConsoleSql],
             Link:"https://banking-app-kappa-sage.vercel.app/",
             cover:"/p3.png",
             background:"bg-indigo-500"
@@ -51,8 +51,17 @@ export default function Projects() {
                           </DirectionAwareHover>
                     </div>
                 </Link>
+                 
             );
-        })}
+        }
+         
+        )}
+        <h1>
+        <span className ="md:w-96 text-lg text-grey-600">
+         Username = Johndoe@gmail.com <br></br>
+         Password = 123456789
+</span>
+        </h1>
 
      </div>
        
